@@ -1,0 +1,15 @@
+https://facebook.github.io/prophet/
+
+https://mlcourse.ai/articles/topic9-part2-prophet/
+
+https://www.kaggle.com/prashant111/tutorial-time-series-forecasting-with-prophet
+
+https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/
+
+Ono što je meni skrenulo pažnju u posljednje vrijeme je https://towardsdatascience.com/announcing-pycarets-new-time-series-module-b6e724d4636c, ali nisam uspio isprobati. Inače PyCaret je paket koji objedinjuje gomilu drugih i na sistematičan način upoređuje metrike različitih modela (ne samo vezano za vremenske serije, nego i generalno u ML-u). Tako da bi bilo dobro (opet, kada budeš imao vremena) da ga malo proučiš.
+
+https://futurice.com/blog/business-forecasting-with-facebook-prophet
+
+https://github.com/raffg/prophet_forecasting
+
+https://towardsdatascience.com/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff

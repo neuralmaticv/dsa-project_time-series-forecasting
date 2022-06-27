@@ -1,9 +1,9 @@
 Country,Model,MAE,RMSE,RRSE,MAPE
-United States,Neural Prophet,72113.95,80270.821,0.574,6.782
-Spain,Neural Prophet,12806.039,13160.11,0.972,20.878
-Italy,Neural Prophet,24072.949,29226.339,1.002,30.994
-France,Neural Prophet,27546.919,29632.981,1.015,29.663
-Germany,Neural Prophet,5504.18,9483.335,0.702,34.242
-Russia,Neural Prophet,28248.795,30070.378,0.836,16.271
-Turkey,Neural Prophet,12766.312,14218.888,1.085,29.394
-India,Neural Prophet,10367.941,11705.528,0.99,21.66
+United States,Neural Prophet,72282.995,80445.514,0.575,6.798
+Spain,Neural Prophet,13002.784,13444.482,1.001,21.235
+Italy,Neural Prophet,22956.314,26418.796,1.037,29.931
+France,Neural Prophet,26892.543,29219.422,1.018,28.966
+Germany,Neural Prophet,5228.674,7903.783,0.818,34.157
+Russia,Neural Prophet,27906.035,30047.5,0.77,15.589
+Turkey,Neural Prophet,11168.849,11600.603,0.741,26.231
+India,Neural Prophet,10344.927,11707.955,0.995,21.55

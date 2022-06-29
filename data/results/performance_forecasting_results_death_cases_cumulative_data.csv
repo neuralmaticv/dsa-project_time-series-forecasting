@@ -1,0 +1,17 @@
+Country,Model,MAE,RMSE,RRSE,MAPE
+United States,Facebook Prophet,5695.203,6696.753,0.494,6.473
+United States,Neural Prophet,5462.989,6461.239,0.482,6.201
+Spain,Facebook Prophet,2418.164,2766.425,0.828,8.934
+Spain,Neural Prophet,2702.618,3413.46,0.943,10.16
+Italy,Facebook Prophet,2514.714,2855.983,0.795,8.071
+Italy,Neural Prophet,2826.518,3635.359,0.803,9.245
+France,Facebook Prophet,4532.867,4977.087,0.897,16.782
+France,Neural Prophet,4221.399,4843.118,0.908,15.675
+Germany,Facebook Prophet,1210.988,1387.131,0.822,15.895
+Germany,Neural Prophet,1338.783,1563.115,0.815,17.96
+Russia,Facebook Prophet,60055.881,67625.545,1.014,25.847
+Russia,Neural Prophet,54117.374,61356.366,0.999,23.156
+Turkey,Facebook Prophet,492.203,577.305,0.746,12.414
+Turkey,Neural Prophet,474.368,602.557,0.75,11.885
+India,Facebook Prophet,733.198,835.512,1.074,29.415
+India,Neural Prophet,718.739,819.489,1.069,28.833

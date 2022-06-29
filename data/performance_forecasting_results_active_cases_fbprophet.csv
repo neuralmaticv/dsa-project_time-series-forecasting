@@ -1,9 +1,0 @@
-Country,Model,MAE,RMSE,RRSE,MAPE
-United States,Facebook Prophet,77545.73,86056.606,0.596,7.296
-Spain,Facebook Prophet,63011.994,65392.525,1.024,103.396
-Italy,Facebook Prophet,23532.638,26763.762,1.137,31.431
-France,Facebook Prophet,24957.744,28288.008,1.019,26.92
-Germany,Facebook Prophet,42594.059,43528.249,1.017,277.556
-Russia,Facebook Prophet,33491.817,35995.811,0.853,18.711
-Turkey,Facebook Prophet,65993.849,69610.319,1.036,165.133
-India,Facebook Prophet,10512.712,11984.975,1.018,21.728

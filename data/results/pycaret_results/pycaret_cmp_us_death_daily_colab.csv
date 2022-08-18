@@ -1,0 +1,28 @@
+,Model,MASE,RMSSE,MAE,RMSE,MAPE,SMAPE,R2,TT (Sec)
+ets,ETS,2.8668,2.3281,318.9644,374.7889,0.2349,0.2577,-0.7528,0.112
+exp_smooth,Exponential Smoothing,2.9159,2.3819,320.1795,386.0597,0.2369,0.2637,-1.5225,0.12
+arima,ARIMA,3.305,2.638,371.5833,437.1094,0.2769,0.312,-2.1932,0.188
+naive,Naive Forecaster,4.2487,3.3003,430.04,520.3632,0.346,0.4285,-1.4387,1.076
+omp_cds_dt,Orthogonal Matching Pursuit w/ Cond. Deseasonalize & Detrending,4.2504,3.4422,542.261,675.1029,0.3925,0.3845,-2.9655,0.092
+theta,Theta Forecaster,4.2575,3.3165,481.5222,573.7076,0.3743,0.4316,-1.8636,0.054
+et_cds_dt,Extra Trees w/ Cond. Deseasonalize & Detrending,4.5225,3.4221,499.3473,575.8558,0.3937,0.4763,-1.9305,0.812
+dt_cds_dt,Decision Tree w/ Cond. Deseasonalize & Detrending,4.5952,3.5272,525.9649,615.6401,0.41,0.4837,-2.4155,0.094
+llar_cds_dt,Lasso Least Angular Regressor w/ Cond. Deseasonalize & Detrending,4.6267,3.5865,547.0188,647.5938,0.4204,0.4863,-2.7391,0.096
+gbr_cds_dt,Gradient Boosting w/ Cond. Deseasonalize & Detrending,4.6293,3.5452,543.3251,635.9355,0.4174,0.4904,-3.0509,0.124
+ada_cds_dt,AdaBoost w/ Cond. Deseasonalize & Detrending,4.6422,3.5476,544.4675,634.9617,0.4206,0.4932,-2.7021,0.176
+rf_cds_dt,Random Forest w/ Cond. Deseasonalize & Detrending,4.6843,3.5508,532.8422,618.2429,0.4131,0.4997,-2.6955,0.854
+br_cds_dt,Bayesian Ridge w/ Cond. Deseasonalize & Detrending,4.7742,3.7646,565.9527,670.2323,0.4219,0.5003,-2.9404,0.096
+auto_arima,Auto ARIMA,4.7908,3.7772,639.7785,781.6038,0.4091,0.3686,-7.3653,3.408
+knn_cds_dt,K Neighbors w/ Cond. Deseasonalize & Detrending,5.0389,3.7487,558.2623,640.8039,0.4312,0.5642,-2.8598,0.7
+snaive,Seasonal Naive Forecaster,5.0757,3.6806,490.36,551.1705,0.3982,0.6118,-2.609,0.048
+lightgbm_cds_dt,Light Gradient Boosting w/ Cond. Deseasonalize & Detrending,5.1947,3.8111,615.4622,690.8986,0.4652,0.6011,-3.3968,0.226
+polytrend,Polynomial Trend Forecaster,5.4257,4.0004,712.9303,800.737,0.529,0.6208,-4.5513,0.048
+croston,Croston,5.8369,4.1786,701.7095,757.1818,0.5077,0.759,-5.8491,0.036
+huber_cds_dt,Huber w/ Cond. Deseasonalize & Detrending,5.8963,5.151,668.7153,850.3536,0.4844,0.5511,-6.0149,0.118
+grand_means,Grand Means Forecaster,7.1729,5.0704,1117.4995,1178.2965,0.6967,1.1629,-17.2528,0.046
+par_cds_dt,Passive Aggressive w/ Cond. Deseasonalize & Detrending,7.2157,5.9238,1343.4918,1681.7277,0.9023,0.9748,-31.8794,0.098
+en_cds_dt,Elastic Net w/ Cond. Deseasonalize & Detrending,9.3137,9.1045,1360.7599,2182.1603,0.7895,0.6207,-88.5341,0.094
+ridge_cds_dt,Ridge w/ Cond. Deseasonalize & Detrending,9.3182,9.1372,1355.9086,2180.2439,0.7883,0.6185,-88.1486,0.088
+lr_cds_dt,Linear w/ Cond. Deseasonalize & Detrending,9.3297,9.1523,1357.4214,2183.5038,0.7891,0.6185,-88.4701,0.122
+lasso_cds_dt,Lasso w/ Cond. Deseasonalize & Detrending,9.4317,9.2394,1379.3839,2218.7836,0.7985,0.6231,-92.3557,0.09
+lar_cds_dt,Least Angular Regressor w/ Cond. Deseasonalize & Detrending,17.3972,15.4531,2195.8839,3255.4442,1.4092,0.8391,-218.6977,0.122

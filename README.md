@@ -5,5 +5,5 @@ The repository is maintained by the Center for Systems Science and Engineering f
 
 ---
 
-Forecasting figures are available [here](https://github.com/vladocodes/dsa-project_time-series-forecasting/tree/main/data/figures).  
-Forecasting results are available [here](https://github.com/vladocodes/dsa-project_time-series-forecasting/tree/main/data/results).
+Forecasting figures are available [here](https://github.com/neuralmaticv/dsa-project_time-series-forecasting/tree/main/data/figures).  
+Forecasting results are available [here](https://github.com/neuralmaticv/dsa-project_time-series-forecasting/tree/main/data/results).

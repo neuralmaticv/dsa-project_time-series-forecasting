@@ -88,7 +88,7 @@ qtconsole==5.4.4
 QtPy==2.1.0
 scikit-learn==1.1.1
 scipy==1.10.0
-Send2Trash==1.8.0
+Send2Trash==1.8.2
 setuptools-git==1.2
 six==1.16.0
 sortedcontainers==2.4.0

@@ -109,6 +109,6 @@ ujson==5.4.0
 urllib3==1.26.9
 wcwidth==0.2.5
 webencodings==0.5.1
-widgetsnbextension==3.6.0
+widgetsnbextension==4.0.9
 zict==2.2.0
 zipp==3.8.0
